@@ -18,7 +18,7 @@
 </div>
 
 ![snake animation](https://raw.githubusercontent.com/sljeff/sljeff/output/github-contribution-grid-snake.svg)
-
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrParAziT}/count.svg" /></p>
 <hr/>
 <p>
  <div align="center">
