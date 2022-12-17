@@ -21,15 +21,18 @@
 
 <hr/>
 <p>
-    <samp>Do have faith in what you're doing.</strong>
+ <div align="center">
+<samp>Trust 2 Your Self</strong>
+</div>
 <p>
-
-<a href="https://t.me/Pv_ParAziT">
-        <img alt="MrParAziT - Telegram" align="center" width="30px" src="https://www.uplooder.net/img/image/72/6eb45d8864d79a98170bc7408a19e186/telegram.svg"/>
+<p>
+---------<a href="https://t.me/Pv_ParAziT">
+        <img alt="MrParAziT - Telegram" align="center" width="45px" src="https://www.uplooder.net/img/image/72/6eb45d8864d79a98170bc7408a19e186/telegram.svg"/>
 </a>
-<a href="https://github.com/MrParAziT">
-        <img alt="MrParAziT - Github" align="center" width="30px" src="https://www.uplooder.net/img/image/71/677921b0173632c30dc14d10b95688ad/github.svg"/>
+------<a href="https://github.com/MrParAziT">
+        <img alt="MrParAziT - Github" align="center" width="45px" src="https://www.uplooder.net/img/image/71/677921b0173632c30dc14d10b95688ad/github.svg"/>
 </a>
-<a href="mailto:Dev.MrParAziT@gmail.com">
-        <img alt="MrParAziT - Gmail" align="center" width="30px" src="https://www.uplooder.net/img/image/34/22dcc085fc0a51c691571a957d2e291d/gmail.svg"/>
+------<a href="mailto:Dev.MrParAziT@gmail.com">
+        <img alt="MrParAziT - Gmail" align="center" width="45px" src="https://www.uplooder.net/img/image/34/22dcc085fc0a51c691571a957d2e291d/gmail.svg"/>
 </a>
+---------
